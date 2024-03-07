@@ -5,9 +5,9 @@ AtliQ Hardware is getting bigger, and now they want to use PowerBi to analyze da
 I learned about this project by taking the Codebasics PowerBi Course. You can find the course link here: 
 
 # Acciqured skills:
--Power BI
--Excel
--DAX language
+- Power BI
+- Excel
+- DAX language
 
 # Acciqured PowerBI techniques:
 -Create date table using M language
