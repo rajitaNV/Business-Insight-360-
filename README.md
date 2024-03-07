@@ -1,8 +1,8 @@
-# Business-Insight-360-
+![Executive report](https://github.com/rajitaNV/Business-Insight-360-/assets/121693250/085fa8ba-f133-48e4-bcba-e48cb67feb08)# Business-Insight-360-
 
 AtliQ Hardware is getting bigger, and now they want to use PowerBi to analyze data for the first time. They hope this will help them beat their competitors and make smart decisions based on data. The project aims to provide answers to questions from stakeholders about money, sales, marketing, and how things are supplied.
 
-# Link to Interactive dashboard: https://app.powerbi.com/view?r=eyJrIjoiMGM0NDQzNjAtMmY0MS00Mjk1LTgyZTQtZDc0MjUwMzY2ODljIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+# Link to Interactive dashboard: Business Insight 360 Dashboard
 
 I learned about this project by taking the Codebasics PowerBi Course. You can find the course link here: 
 
@@ -40,11 +40,14 @@ I learned about this project by taking the Codebasics PowerBi Course. You can fi
 ![landing page](https://github.com/rajitaNV/Business-Insight-360-/assets/121693250/c4876bd8-59be-4b2f-b0f3-10c8dcbe919d)
 
 # Finance View
-![Finance view](https://github.com/rajitaNV/Business-Insight-360-/assets/121693250/d8b0ea9a-75ec-4105-811c-3657c7db8094)
+![Finance view](https://github.com/rajitaNV/Business-Insight-360-/assets/121693250/70425b8b-a0f0-4f90-9b0f-91ff55698cad)
 
 # Marketing View
 ![marketing view](https://github.com/rajitaNV/Business-Insight-360-/assets/121693250/59d7e934-0853-4597-a7a7-8ee0ac74c002)
 
 # Supply Chain View
+![supply chain view](https://github.com/rajitaNV/Business-Insight-360-/assets/121693250/26aa64cc-5d97-4535-8e6b-a951c9e818e8)
 
 # Executive View
+![Executive report](https://github.com/rajitaNV/Business-Insight-360-/assets/121693250/e7460dc2-4fb3-4853-a1cc-13afee2ac149)
+
