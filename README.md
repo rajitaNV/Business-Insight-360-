@@ -4,12 +4,12 @@ AtliQ Hardware is getting bigger, and now they want to use PowerBi to analyze da
 
 I learned about this project by taking the Codebasics PowerBi Course. You can find the course link here: 
 
-Acciqured skills:
+# Acciqured skills:
 -Power BI
 -Excel
 -DAX language
 
-Acciqured PowerBI techniques:
+# Acciqured PowerBI techniques:
 -Create date table using M language
 -Creating calculated columns
 -Creating measures using DAX language
@@ -21,7 +21,7 @@ Acciqured PowerBI techniques:
 -Data validation techniques
 -Setting up the auto refresh of data
 
-𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐫𝐞𝐥𝐚𝐭𝐞𝐝 𝐭𝐞𝐫𝐦𝐬:
+# 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐫𝐞𝐥𝐚𝐭𝐞𝐝 𝐭𝐞𝐫𝐦𝐬:
 - Gross Price
 - Pre-invoice deductions
 - Post-Invoice deductions
