@@ -2,7 +2,8 @@
 
 AtliQ Hardware is getting bigger, and now they want to use PowerBi to analyze data for the first time. They hope this will help them beat their competitors and make smart decisions based on data. The project aims to provide answers to questions from stakeholders about money, sales, marketing, and how things are supplied.
 
-# Link to Interactive dashboard: Business Insight 360 Dashboard
+# Link to Interactive dashboard: 
+https://app.powerbi.com/view?r=eyJrIjoiMGM0NDQzNjAtMmY0MS00Mjk1LTgyZTQtZDc0MjUwMzY2ODljIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 I learned about this project by taking the Codebasics PowerBi Course. You can find the course link here: 
 
