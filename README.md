@@ -10,16 +10,16 @@ I learned about this project by taking the Codebasics PowerBi Course. You can fi
 - DAX language
 
 # Acciqured PowerBI techniques:
--Create date table using M language
--Creating calculated columns
--Creating measures using DAX language
--Using KPI indicators 
--Data Modelling
--Use of bookmarks to switch between two visuals
--Use of Coditional formatting
--Dynamic tiles based on filters
--Data validation techniques
--Setting up the auto refresh of data
+- Create date table using M language
+- Creating calculated columns
+- Creating measures using DAX language
+- Using KPI indicators 
+- Data Modelling
+- Use of bookmarks to switch between two visuals
+- Use of Coditional formatting
+- Dynamic tiles based on filters
+- Data validation techniques
+- Setting up the auto refresh of data
 
 # 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐫𝐞𝐥𝐚𝐭𝐞𝐝 𝐭𝐞𝐫𝐦𝐬:
 - Gross Price
