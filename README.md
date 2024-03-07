@@ -1,4 +1,4 @@
-![Executive report](https://github.com/rajitaNV/Business-Insight-360-/assets/121693250/085fa8ba-f133-48e4-bcba-e48cb67feb08)# Business-Insight-360-
+# Business-Insight-360 (AtliQ Hardware)
 
 AtliQ Hardware is getting bigger, and now they want to use PowerBi to analyze data for the first time. They hope this will help them beat their competitors and make smart decisions based on data. The project aims to provide answers to questions from stakeholders about money, sales, marketing, and how things are supplied.
 
